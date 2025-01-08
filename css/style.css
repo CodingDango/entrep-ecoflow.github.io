@@ -19,7 +19,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(69,255,44,1) 0%, rgba
 
 .round-img {
   border-radius: 20px;
-  width: 500px;
+  width: 100%;
 }
 
 .icon-square {
